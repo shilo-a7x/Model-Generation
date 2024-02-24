@@ -1,2 +1,2 @@
-# graduation_project
+# final_project
 Computer Science BSc final project at BIU
