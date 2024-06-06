@@ -10,6 +10,6 @@ class Iris2LayerClassifier(nn.Module):
         )
 
     def forward(self, x):
-        x = self.linear(x)
+        x = self.classifier(x)
         return x
     
