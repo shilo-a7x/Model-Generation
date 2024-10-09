@@ -1,4 +1,4 @@
-# Model Generation yeah
+# Model Generation
 
 Computer Science BSc final project at BIU
 
