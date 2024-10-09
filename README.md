@@ -1,4 +1,4 @@
-# final_project - Model Generation
+# Model Generation
 Computer Science BSc final project at BIU
 
 # Abstract
